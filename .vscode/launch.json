@@ -7,7 +7,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceFolder}\\target\\debug\\chip_8.exe",
-            "args": ["${workspaceFolder}\\tests\\BC_test.ch8"],
+            "args": ["${workspaceFolder}\\tests\\IBM Logo.ch8"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
